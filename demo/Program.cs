@@ -15,7 +15,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
-
+//cc3m
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
